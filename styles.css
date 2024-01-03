@@ -260,8 +260,8 @@ canvas {
     margin-left: 0;
     position: fixed;
     z-index: 0;
-    top: 80;
-    bottom: 0;
+    top: 10;
+    bottom: ;
     left: 0;
     right: 0;
     display: none;
